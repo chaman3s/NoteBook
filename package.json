@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express-validator": "^6.12.2",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
